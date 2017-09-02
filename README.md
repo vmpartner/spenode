@@ -15,7 +15,7 @@ docker run -it --rm vmpartner/spenode run && docker rmi vmpartner/spenode
 ```
 
 ## How it works
-Docker download image and run internal performance tests. After work container is removed automatically. Your node stays clean.  
+Docker download image and run internal performance tests. After work container is removed automatically (not image). Your node stays clean.  
 
 ## Usage example 
 
