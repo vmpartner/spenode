@@ -1,6 +1,8 @@
 # Spenode - performance tool
 Check your server performance for php by php with Docker in one-line command.
 
+![logo](assets/logo.png)  
+
 ## Usage
 ```
 docker run -it --rm vmpartner/spenode run
