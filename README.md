@@ -3,7 +3,7 @@ Check your server performance for php by php with Docker in one-line command.
 
 ## Usage
 ```
-docker run -it --rm spenode run
+docker run -it --rm vmpartner/spenode run
 ```
 
 ## How it works
