@@ -12,3 +12,10 @@ docker run -it --rm vmpartner/spenode run
 Docker download image and run internal performance tests. After work container is removed automatically. Your node stays clean.  
 
 ![record](assets/rec1.gif)
+
+## Source test script
+For the test script, thanks to rusoft! :+1:  
+https://github.com/rusoft/php-simple-benchmark-script
+
+## Superstar
+Give star if Spenode was useful for you!!!
